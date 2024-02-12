@@ -22,7 +22,7 @@ class ChildrenStoriesScreen extends StatelessWidget {
     'The Tortoise and the Hare',
     'The Ant and The Dove',
     'Goldilocks and the Three Bears',
-    'The Ants and the GrassHopper'
+    'The Ants and The GrassHopper'
 
     // Add more bedtime stories here
   ];
@@ -147,7 +147,7 @@ class StoryDetailScreen extends StatelessWidget {
           The bears never saw her again.
           
         ''';
-      case 'The Ant and The GrassHopper':
+      case 'The Ants and The GrassHopper':
         return '''
 Once upon a time, a grasshopper and an ant used to live by the river meadow. 
 During the summer season, when the ants were busy collecting the food grains from the farmer’s field, 
